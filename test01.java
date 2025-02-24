@@ -12,6 +12,6 @@ public class test01 {
 			}
 			System.out.println();
 		}
-		System.out.println("합은"+sum);
+		System.out.println("합은 "+sum);
 	}
 }
